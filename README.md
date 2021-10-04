@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome! 👋
+
+I'm Agustin && ...
+- 🌱 I’m currently learning everything I can about FullStack development,
+- 👯 I’m looking to collaborate on projects regarding JavaScript, nodeJS, React, HTML, CSS,
+- 📫 You can easily reach me by [Linkedin](https://www.linkedin.com/in/agustinboccio/),
+- ⚡ Fun fact: ...Content exclusive for people who reach me 😁👆🏻
+
 
 <!--
 **bocod/bocod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
